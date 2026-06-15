@@ -1,17 +1,62 @@
-## 👋 مرحباً، أنا محمد علاء
+<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
+<h3 align="center">Junior Backend Developer (Node.js | Express)</h3>
 
-### 🚀 مطور برمجيات | مهتم بـ [تخصصك: مثلاً Web Development, AI, etc.]
+---
 
-- 🔭 أعمل حالياً على: ...
-- 🌱 أتعلم حالياً: ...
-- 👯 أبحث عن التعاون في: ...
-- 💬 اسألني عن: ...
-- 📫 كيف تصل إلي: ...
-- ⚡ حقيقة طريفة: ...
+## 🚀 About Me
 
-### 🛠 المهارات والأدوات:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- 🎓 Graduate of Management Information Systems (2025)
+- 💻 Backend Developer (Node.js / Express)
+- 🗄️ Focused on REST APIs & Databases
+- 🔐 Learning Authentication & System Design
+- 📍 Egypt
 
-### 📊 إحصائيات GitHub:
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Alaa-90&show_icons=true&theme=radical)
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Alaa-90&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Alaa-90&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Alaa-90&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Alaa-90&color=blue" />
+</p>
+
+---
+
+## 📌 Project
+
+### CRUD Basic API
+Simple REST API using Node.js & Express
+
+🔗 [https://github.com/Mohamed-Alaa-90/crud_basic_nodejs](https://github.com/Mohamed-Alaa-90/crud_basic_nodejs)
+
+---
+
+## 💡 Quote
+
+> Consistency beats motivation.
