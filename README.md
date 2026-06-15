@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06B6D4&height=220&section=header&text=Mohamed%20Alaa&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=58&descColor=e0f2fe&animation=fadeIn" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/🇪🇬-Egypt-success?style=for-the-badge&color=00813D" />
 &nbsp;
 <img src="https://img.shields.io/badge/MIS-Graduate%202025-667eea?style=for-the-badge" />
