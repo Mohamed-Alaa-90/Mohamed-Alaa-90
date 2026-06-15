@@ -1,37 +1,48 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mohamed%20Alaa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer&descAlignY=58&descColor=e0f2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06B6D4&height=220&section=header&text=Mohamed%20Alaa&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=58&descColor=e0f2fe&animation=fadeIn" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Node.js+%7C+Express+Developer;REST+API+Builder;Database+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohamed+Alaa;Node.js+%7C+Express+Developer;Java+%7C+PHP+Backend+Dev;Flutter+%7C+Dart+Mobile+Dev;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-4F46E5?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Alaa-90&style=for-the-badge&color=06B6D4" />
+<img src="https://img.shields.io/badge/🇪🇬-Egypt-success?style=for-the-badge&color=00813D" />
+&nbsp;
+<img src="https://img.shields.io/badge/MIS-Graduate%202025-667eea?style=for-the-badge" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Alaa-90&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-```javascript
-const mohamed = {
-  name: "Mohamed Alaa",
-  role: "Junior Backend Developer",
-  location: "Egypt 🇪🇬",
-  education: "Management Information Systems (2025)",
-  currentlyLearning: ["Authentication (JWT)", "System Design", "Docker"],
-  currentlyBuilding: "...",  // 🔨 اكتب مشروعك هنا
-  askMeAbout: ["Node.js", "Express", "REST APIs", "MongoDB"],
-  funFact: "Consistency beats motivation 💪"
-};
+```dart
+class Developer {
+  final String name     = "Mohamed Alaa";
+  final String role     = "Junior Backend Developer";
+  final String location = "Egypt 🇪🇬";
+  final String degree   = "Management Information Systems (2025)";
+
+  final List<String> learning = [
+    "Authentication (JWT)",
+    "System Design",
+    "Docker",
+  ];
+
+  final List<String> skills = [
+    "Node.js · Express · PHP",
+    "Java · Dart · Flutter",
+    "MongoDB · REST APIs",
+  ];
+
+  String get quote => "Consistency beats motivation 💪";
+}
 ```
 
 ---
@@ -40,9 +51,18 @@ const mohamed = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 📱 Mobile & Language
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -52,14 +72,15 @@ const mohamed = {
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
 <div align="center">
 
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| 🔹 **CRUD Basic API** | Simple REST API with full CRUD operations | Node.js · Express | [View →](https://github.com/Mohamed-Alaa-90/crud_basic_nodejs) |
-| 🔐 **Auth API** *(soon)* | JWT authentication with protected routes | Node.js · MongoDB | Coming soon |
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 🔹 | **CRUD Basic API** | Full REST API with CRUD operations | Node.js · Express | [View →](https://github.com/Mohamed-Alaa-90/crud_basic_nodejs) |
+| 🔐 | **Auth API** *(soon)* | JWT authentication & protected routes | Node.js · MongoDB | Coming soon |
+| 📱 | **Flutter App** *(soon)* | Mobile app with Dart & Flutter | Flutter · Dart | Coming soon |
 
 </div>
 
@@ -69,17 +90,26 @@ const mohamed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Alaa-90&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Alaa-90&layout=compact&theme=tokyonight&border_radius=12" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Alaa-90&show_icons=true&theme=tokyonight&border_radius=16&hide_border=false&title_color=667eea&icon_color=764ba2" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Alaa-90&layout=compact&theme=tokyonight&border_radius=16&title_color=667eea" height="175" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Alaa-90&theme=tokyonight&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Alaa-90&theme=tokyonight&border_radius=16&ring=667eea&fire=764ba2&currStreakLabel=06B6D4" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Alaa-90&theme=tokyo-night&border_radius=12&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Alaa-90&theme=tokyo-night&border_radius=16&color=667eea&line=764ba2&point=06B6D4" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Alaa-90&theme=tokyonight&no-frame=false&margin-w=8&column=6" />
 </div>
 
 ---
@@ -89,15 +119,24 @@ const mohamed = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Alaa-90)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" />
+### 💬 Quote
+*"Consistency beats motivation — مش بيتعوض بحاجة تانية"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:764ba2,100:667eea&height=140&section=footer&animation=fadeIn" />
 
 </div>
