@@ -2,13 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:06B6D4&height=220&section=header&text=Mohamed%20Alaa&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=58&descColor=e0f2fe&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohamed+Alaa;Node.js+%7C+Express+Developer;Java+%7C+PHP+Backend+Dev;Flutter+%7C+Dart+Mobile+Dev;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
-
+<img src="https://img.shields.io/badge/🇪🇬-Egypt-success?style=for-the-badge&color=00813D" />
+&nbsp;
 <img src="https://img.shields.io/badge/MIS-Graduate%202025-667eea?style=for-the-badge" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Mohamed-Alaa-90&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
