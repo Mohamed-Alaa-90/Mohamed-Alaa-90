@@ -8,8 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🇪🇬-Egypt-success?style=for-the-badge&color=00813D" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/MIS-Graduate%202025-667eea?style=for-the-badge" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Mohamed-Alaa-90&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
