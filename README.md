@@ -72,20 +72,6 @@ class Developer {
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 🔹 | **CRUD Basic API** | Full REST API with CRUD operations | Node.js · Express | [View →](https://github.com/Mohamed-Alaa-90/crud_basic_nodejs) |
-| 🔐 | **Auth API** *(soon)* | JWT authentication & protected routes | Node.js · MongoDB | Coming soon |
-| 📱 | **Flutter App** *(soon)* | Mobile app with Dart & Flutter | Flutter · Dart | Coming soon |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,13 +92,6 @@ class Developer {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Alaa-90&theme=tokyonight&no-frame=false&margin-w=8&column=6" />
-</div>
-
----
 
 ## 📬 Connect With Me
 
